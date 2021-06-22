@@ -1,0 +1,17 @@
+// == comparação implícita (compara valor)
+
+//const numero = 5;
+//const texto = "5";
+
+//console.log(numero == texto)
+
+// === comparação implicita (compara valor e o tipo de dado)
+
+const numero = 5;
+const texto = "5";
+
+console.log(numero === texto)
+
+//typeof
+console.log(typeof numero)
+console.log(typeof texto)
